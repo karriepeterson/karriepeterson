@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm currently thinking about the skillset and learning paths for liaison librarians who need to support oncreasingly data-intensive and computational researh, especially using tools and platforms that advance open research.
+I'm currently thinking about the skillset and learning paths for liaison librarians who need to support increasingly data-intensive and computational research, especially using tools and platforms that advance open research.
 <!--
 **karriepeterson/karriepeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
